@@ -7,7 +7,7 @@ Once setup the following scripts can be used to test, run, and build the project
 
 * npm test
 * npm start
-* npm build
+* npm run build
 
 The resulting directory is as follows:
 
