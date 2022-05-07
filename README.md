@@ -16,7 +16,7 @@ The resulting directory is as follows:
 * node_modules
 * src
 * * index.tsx
-* * * __tests__
+* * * \_\_tests\_\_
 * * * * index.test.tsx
 * .babelrc
 * .eslintrc.json
