@@ -30,8 +30,8 @@ const App = (props:AppProps) => {
         <div>
             <h1 className=\"title\">{props.title}</h1>
         </div>
-    )
-}
+    );
+};
 
 const rootEl = document.getElementById('root');
 
